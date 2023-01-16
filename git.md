@@ -40,7 +40,7 @@ git status
 
 git add .
 
-git -m" comment"
+git commit -m" comment"
 
 git push
 
